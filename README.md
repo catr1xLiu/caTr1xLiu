@@ -17,17 +17,12 @@ I'm caTr1x Liu, a curious learner and developer. I'm passionate about turning fu
 Currently doing Computer Engineering degree @ University of Waterloo (1st year)
 
 ### ⚡Projects
-<div style="display: flex; justify-content: center; width: 100%;">
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; width: 80%;">
-<a href="https://github.com/Shenzhen-Robotics-Alliance/maple-sim">
-<img src="./proj1.png" style="width: 100%; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
-</a>
-<a href="https://github.com/Shenzhen-Robotics-Alliance/Maple-Swerve-Skeleton">
-<img src="./proj2.png" style="width: 100%; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
-</a>
-<a href="https://github.com/catr1xLiu/Intelli-Scope">
-<img src="./proj3.png" style="width: 100%; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
-</a>
-<img src="./proj4.png" style="width: 100%; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
-</div>
-</div>
+<p align="center">
+<a href="https://github.com/Shenzhen-Robotics-Alliance/maple-sim"><img src="./proj1.png" width="36%"></a>
+&nbsp;&nbsp;
+<a href="https://github.com/Shenzhen-Robotics-Alliance/Maple-Swerve-Skeleton"><img src="./proj2.png" width="36%"></a>
+<br><br>
+<a href="https://github.com/catr1xLiu/Intelli-Scope"><img src="./proj3.png" width="36%"></a>
+&nbsp;&nbsp;
+<img src="./proj4.png" width="36%">
+</p>
