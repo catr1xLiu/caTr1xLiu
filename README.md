@@ -18,11 +18,11 @@ Currently doing Computer Engineering degree @ University of Waterloo (1st year)
 
 ### ⚡Projects
 <p align="center">
-<a href="https://github.com/Shenzhen-Robotics-Alliance/maple-sim"><img src="./proj1.png" width="36%"></a>
+<a href="https://github.com/Shenzhen-Robotics-Alliance/maple-sim"><img src="./proj1.png" width="45%"></a>
 &nbsp;&nbsp;
-<a href="https://github.com/Shenzhen-Robotics-Alliance/Maple-Swerve-Skeleton"><img src="./proj2.png" width="36%"></a>
+<a href="https://github.com/Shenzhen-Robotics-Alliance/Maple-Swerve-Skeleton"><img src="./proj2.png" width="45%"></a>
 <br><br>
-<a href="https://github.com/catr1xLiu/Intelli-Scope"><img src="./proj3.png" width="36%"></a>
+<a href="https://github.com/catr1xLiu/Intelli-Scope"><img src="./proj3.png" width="45%"></a>
 &nbsp;&nbsp;
-<img src="./proj4.png" width="36%">
+<img src="./proj4.png" width="45%">
 </p>
